@@ -1,0 +1,17 @@
+dwm - dynamic window manager
+============================
+
+My build dwm is an extremely fast, small, and dynamic window manager.
+
+patches
+=======
+
+My patches can be found in the patches directory.
+
+fixes
+=====
+
+I have fixed it up for my usability according to the following:
+
+https://ratfactor.com/dwm2
+https://github.com/bakkeby/dwm-flexipatch/issues/352#issuecomment-1536419696
